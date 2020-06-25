@@ -2,13 +2,13 @@
 
 PHP low level Driver for Neo4j's Bolt Remoting Protocol
 
-[![Build Status](https://travis-ci.org/graphaware/neo4j-bolt-php.svg?branch=master)](https://travis-ci.org/graphaware/neo4j-bolt-php)
+[![Build Status](https://travis-ci.org/gino-pane/neo4j-bolt-php.svg?branch=master)](https://travis-ci.org/gino-pane/neo4j-bolt-php)
 
 ---
 
 ### References :
 
-* PHP Client embedding Bolt along with the http driver (recommended way of using Neo4j in PHP) : https://github.com/graphaware/neo4j-php-client
+* PHP Client embedding Bolt along with the http driver (recommended way of using Neo4j in PHP) : https://github.com/gino-pane/neo4j-php-client
 * Neo4j 3.0 : http://neo4j.com/docs
 
 ### Requirements:
